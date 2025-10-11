@@ -13,23 +13,24 @@ I'm starting with week 4 QB data as weekly practice. I won't be adding in the pl
 
 Note week 5 start, I started pulling data before morning games on 10/5.  Will pull again after the MNF game and that's when I'll run analysis each week after this week
 
-** Week 5 start **
+---
+** Week 5 **
 
+Week 5 Passing Yards leaders:
 | Player | Yards |
 |:------ |:------|
-| Matthew Stafford| 1503 |
-| Dak Prescott| 1119 | 
-| Daniel Jones| 1078 | 
+| Matthew Stafford | 1503 | 
+| Dak Prescott | 1356 | 
+| Daniel Jones | 1290 | 
 
 Week 5 TD leaders:
-
 | Player | TD |
 |:------ |:------|
-| Matthew Stafford| 11 |
-| Lamar Jackson| 10 | 
-| Jared Goff | 9 | 
+| Jared Goff | 12 |
+| Matthew Stafford | 11 |
+| Tua Tagovailoa | 10 |
 
-
+---
 ** Week 4 **
 
 | Player | Yards |
