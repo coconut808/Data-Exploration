@@ -15,6 +15,7 @@ Note week 5 start, I started pulling data before morning games on 10/5.  Will pu
 
 ---
 ** Week 5 **
+At the end of week 5, we've got new leaders.  The only one who is still on the board from last week is Jared Goff who tied for 3rd for TDs at the end of week 4.
 
 Week 5 Passing Yards leaders:
 | Player | Yards |
